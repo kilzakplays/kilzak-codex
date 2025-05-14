@@ -1,0 +1,22 @@
+[
+    {
+        "id": "44604d2e-cd7f-459b-b53a-8c291a8d3894",
+        "name": "Elden Ring first playthrough",
+        "label": "BADGES.FIRST_RUNS.ELDEN_RING.LABEL",
+        "path": "badges/first-runs/elden-ring/",
+        "icon": "er_badge_icon.png",
+        "not_collected": "er_badge_icon_not_collected.png",
+        "full_pic": "er_badge_full_pic.png",
+        "disc":"BADGES.FIRST_RUNS.ELDEN_RING.DESC"
+    },
+    {
+        "id": "1c8dbd19-95cc-4e7d-9b03-31614fa7a9ec",
+        "name": "RDR2 first playthrough",
+        "label": "BADGES.FIRST_RUNS.RDR2.LABEL",
+        "path": "badges/first-runs/rdr2/",
+        "icon": "rdr2_icon.png",
+        "not_collected": "rdr2_icon_not_collected.png",
+        "full_pic": "rdr2_full_pic.png.png",
+        "disc":"BADGES.FIRST_RUNS.RDR2.DESC"
+    }
+]

@@ -1,0 +1,31 @@
+{
+  "HEADER": {
+    "TITLE": "Hall da Fama",
+    "MENU": {
+      "LEADERBOARD": "Classificação",
+      "BADGES": "Medalhas"
+    },
+    "SEARCH": {
+      "PLACEHOLDER": "",
+      "BUTTON": "Pesquisar"
+    }
+  },
+    "BADGES": {
+        "FIRST_RUNS": {
+            "ELDEN_RING": {
+                "LABEL": "Primeira run em Elden Ring",
+                "DESC": "Este distintivo foi criado para celebrar minha primeira jogada do jogo. Levei 210 horas ao longo de 6 meses. O jogo foi um presente de Natal e me apaixonei por ele. Decidi começar a fazer lives — foi esse jogo e essa jogada que deram início a tudo.",
+                "FAV_BOSSES": "Godfrey – luta justa, 1 contra 1, sem enrolação. | Malekith – chefe rápido, mas o que me fez gostar dele foi mais a história e a missão.",
+                "FUN_FACTS": "Levei 20 horas só para matar o Margit, quase o mesmo tempo que levei para o Radabeast. | Matei acidentalmente o Gostoc em um telhado dentro do castelo. | Eu adoro katanas."
+            },
+            "RDR2": {
+                "LABEL": "Primeira run de RDR2",
+                "DESC": "Run em andamento",
+                "FAV_BOSSES": "Run em andamento",
+                "FUN_FACTS": "Run em andamento"
+            }
+        }
+    },
+    "MESSAGE_LEADERBOARDS": "Esses dados são temporários, já que esta seção ainda está em desenvolvimento."
+
+}
