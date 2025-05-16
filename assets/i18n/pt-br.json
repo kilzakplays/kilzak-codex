@@ -1,15 +1,15 @@
 {
-  "HEADER": {
-    "TITLE": "Hall da Fama",
-    "MENU": {
-      "LEADERBOARD": "Classificação",
-      "BADGES": "Medalhas"
+    "HEADER": {
+        "TITLE": "Hall da Fama",
+        "MENU": {
+            "LEADERBOARD": "Classificação",
+            "BADGES": "Medalhas"
+        },
+        "SEARCH": {
+            "PLACEHOLDER": "",
+            "BUTTON": "Pesquisar"
+        }
     },
-    "SEARCH": {
-      "PLACEHOLDER": "",
-      "BUTTON": "Pesquisar"
-    }
-  },
     "BADGES": {
         "FIRST_RUNS": {
             "ELDEN_RING": {
@@ -26,6 +26,16 @@
             }
         }
     },
-    "MESSAGE_LEADERBOARDS": "Esses dados são temporários, já que esta seção ainda está em desenvolvimento."
-
+    "MESSAGE_LEADERBOARDS": "Esses dados são temporários, já que esta seção ainda está em desenvolvimento.",
+    "LEADERBOARDS": {
+        "CELLS": {
+            "RANK": "Classificação",
+            "SCORE": "\"Pontuação\"",
+            "USER": "Colecionador",
+            "BADGES": "Medalhas"
+        },
+        "BADGES": {
+            "TITLE": "Colecionadores"
+        }
+    }
 }

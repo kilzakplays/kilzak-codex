@@ -1,30 +1,41 @@
 {
-  "HEADER": {
-    "TITLE": "Hall of Fame",
-    "MENU": {
-      "LEADERBOARD": "Leaderboard",
-      "BADGES": "Badges"
-    },
-    "SEARCH":{
-      "PLACEHOLDER": "",
-      "BUTTON": "Search"
-    }
-  },
-  "BADGES": {
-    "FIRST_RUNS": {
-        "ELDEN_RING": {
-            "LABEL": "Elden Ring first playthrough",
-            "DESC": "This badge was created to celabrate my frist run of the game, it took 210 hours spread accross 6 months, The game was a xmas gift and I fell in love for the game, decided to start streaming that is the game and run that started it all.",
-            "FAV_BOSSES": "Godfrey - 1v1 no bs. | Malekith - fast boss, but is the quest and history that made me like him more",
-            "FUN_FACTS" : "Margit took me 20 hours alone to kill almost the same time for radabeast | I killed accidently gustoc on a roof inside of the castle | I love katanas"
+    "HEADER": {
+        "TITLE": "Hall of Fame",
+        "MENU": {
+            "LEADERBOARD": "Leaderboard",
+            "BADGES": "Badges"
         },
-        "RDR2": {
-            "LABEL": "RDR2 first playthrough",
-            "DESC": "Run in progress",
-            "FAV_BOSSES": "Run in progress",
-            "FUN_FACTS" : "Run in progress"
+        "SEARCH": {
+            "PLACEHOLDER": "",
+            "BUTTON": "Search"
+        }
+    },
+    "BADGES": {
+        "FIRST_RUNS": {
+            "ELDEN_RING": {
+                "LABEL": "Elden Ring first playthrough",
+                "DESC": "This badge was created to celabrate my frist run of the game, it took 210 hours spread accross 6 months, The game was a xmas gift and I fell in love for the game, decided to start streaming that is the game and run that started it all.",
+                "FAV_BOSSES": "Godfrey - 1v1 no bs. | Malekith - fast boss, but is the quest and history that made me like him more",
+                "FUN_FACTS": "Margit took me 20 hours alone to kill almost the same time for radabeast | I killed accidently gustoc on a roof inside of the castle | I love katanas"
+            },
+            "RDR2": {
+                "LABEL": "RDR2 first playthrough",
+                "DESC": "Run in progress",
+                "FAV_BOSSES": "Run in progress",
+                "FUN_FACTS": "Run in progress"
+            }
+        }
+    },
+    "MESSAGE_LEADERBOARDS": "This Data is temporary since this sections is a work in progress.",
+    "LEADERBOARDS": {
+        "CELLS": {
+            "RANK": "Rank",
+            "SCORE": "\"SCORE\"",
+            "USER": "Collector",
+            "BADGES": "Badges"
+        },
+        "BADGES": {
+            "TITLE": "Badge Collectors"
         }
     }
-  },
-  "MESSAGE_LEADERBOARDS": "This Data is temporary since this sections is a work in progress."
 }
