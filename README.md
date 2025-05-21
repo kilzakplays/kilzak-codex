@@ -1,2 +1,3 @@
-# channel-hall-of-fame
-this is a rep and page for all the collectors, contributors and other things that deserve my respect and gratitude
+# KILZAK'S CODEX
+This page is created to hold and represent kilzak's twtich channel and all its "content" go to
+https://kilzakplays.github.io/kilzak-codex/ to see more
